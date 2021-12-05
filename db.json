@@ -1,6 +1,12 @@
-{
-    "users": {
+[
+    {
+        "id": 1234,
         "username": email@outlook.com,
         "password": "12345"
+    },
+    {
+        "id": 123,
+        "username": test@outlook.com,
+        "password": "12345"
     }
-}
+]
